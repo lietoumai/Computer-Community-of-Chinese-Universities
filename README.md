@@ -3,5 +3,5 @@
 | ------ | ------ | ------ |------ |------ |------ |------ |------ |------ |------ |
 
 
- #### This repo will include computer community&open source project of chinese universities
+ #### This repo will include computer community&open source project of chinese universities's
  #### listed in no particular order
