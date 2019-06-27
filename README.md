@@ -1,4 +1,4 @@
- ### This repo will include computer community or open source project 
+ ### This repo will include computer community&open source project of chinese universities
  ### and
  ### listed in no particular order
  
